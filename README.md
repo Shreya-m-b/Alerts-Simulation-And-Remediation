@@ -30,7 +30,7 @@
 
 ## Workflow 🖥️
 ## 
-![image.png](/.eraser/JGeGABkBvp6UL1h5oorW___VTWyP4yZwxXsa4Nksfbh5OligSu1___uytmW6nwbxuUlHOvXRY2f.png "image.png")
+![image.png](https://github.com/ankush-003/alerts-simulation-and-remediation/blob/main/.eraser/JGeGABkBvp6UL1h5oorW___VTWyP4yZwxXsa4Nksfbh5OligSu1___uytmW6nwbxuUlHOvXRY2f.png "image.png")
 
 
 
